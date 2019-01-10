@@ -39,7 +39,8 @@ namespace C_Sharp_Projects
 
             Console.WriteLine("The answer is: ");
             Console.WriteLine(retVal);
-             
+            
+            Console.WriteLine("A small step towards a big GUI application..")
         }
         //Function definitions follow:
 
